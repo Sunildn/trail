@@ -1,0 +1,17 @@
+.button{
+    padding :10px;
+    background-color: darkgreen;
+    border-radius: 5px;
+    margin: 10px;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+}
+span{
+    padding :10px;
+    background-color: lightblue;
+    border-radius: 5px;
+    margin: 10px;
+}
